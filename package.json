@@ -1,0 +1,24 @@
+{
+  "name": "gitfinder",
+  "version": "1.0.0",
+  "description": "An app finding and displaying github user's profile",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince601/gitFinderV1.git"
+  },
+  "keywords": [
+    "git",
+    "gitfinder",
+    "javascript"
+  ],
+  "author": "Prince kab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prince601/gitFinderV1/issues"
+  },
+  "homepage": "https://github.com/prince601/gitFinderV1#readme"
+}
